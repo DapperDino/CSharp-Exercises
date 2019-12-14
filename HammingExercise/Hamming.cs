@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 
 namespace HammingExercise
 {
@@ -8,7 +9,7 @@ namespace HammingExercise
         {
             if (strandOne.Length != strandTwo.Length)
             {
-                return -1;
+                throw new ArgumentException("Strands must be the same length");
             }
 
             return strandOne.Where((x, y) => x != strandTwo[y]).Count();

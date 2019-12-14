@@ -1,5 +1,6 @@
 ﻿using HammingExercise;
 using NUnit.Framework;
+using System;
 
 namespace ExerciseTests.Tests.Easy
 {
@@ -51,15 +52,15 @@ namespace ExerciseTests.Tests.Easy
         }
 
         [Test]
-        public void GetHammingDistance_FirstStrandLonger_ReturnsNegativeOne()
+        public void GetHammingDistance_FirstStrandLonger_ThrowsArgumentException()
         {
-            Assert.AreEqual(-1, Hamming.GetDistance("AATG", "AAA"));
+            Assert.Throws<ArgumentException>(() => Hamming.GetDistance("AATG", "AAA"));
         }
 
         [Test]
-        public void GetHammingDistance_SecondStrandLonger_ReturnsNegativeOne()
+        public void GetHammingDistance_SecondStrandLonger_ThrowsArgumentException()
         {
-            Assert.AreEqual(-1, Hamming.GetDistance("ATA", "AGTG"));
+            Assert.Throws<ArgumentException>(() => Hamming.GetDistance("ATA", "AGTG"));
         }
     }
 }
