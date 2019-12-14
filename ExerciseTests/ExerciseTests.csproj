@@ -20,6 +20,7 @@
   <ItemGroup>
     <ProjectReference Include="..\GigasecondExercise\GigasecondExercise.csproj" />
     <ProjectReference Include="..\HelloWorldExercise\HelloWorldExercise.csproj" />
+    <ProjectReference Include="..\HighScoresExercise\HighScoresExercise.csproj" />
     <ProjectReference Include="..\LeapExercise\LeapExercise.csproj" />
     <ProjectReference Include="..\ResistorColorExercise\ResistorColorExercise.csproj" />
     <ProjectReference Include="..\SpaceAgeExercise\SpaceAgeExercise.csproj" />
