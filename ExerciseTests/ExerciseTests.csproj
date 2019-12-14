@@ -13,14 +13,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HelloWorld\HelloWorldExercise.csproj" />
-    <ProjectReference Include="..\LeapExercise\LeapExercise.csproj" />
-    <ProjectReference Include="..\TwoFer\TwoFerExercise.csproj" />
+    <Folder Include="Tests\Medium\" />
+    <Folder Include="Tests\Hard\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Tests\Medium\" />
-    <Folder Include="Tests\Hard\" />
+    <ProjectReference Include="..\GigasecondExercise\GigasecondExercise.csproj" />
+    <ProjectReference Include="..\HelloWorldExercise\HelloWorldExercise.csproj" />
+    <ProjectReference Include="..\LeapExercise\LeapExercise.csproj" />
+    <ProjectReference Include="..\TwoFerExercise\TwoFerExercise.csproj" />
   </ItemGroup>
 
 </Project>
