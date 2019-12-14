@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFerExercise", "TwoFer\Tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTests", "ExerciseTests\ExerciseTests.csproj", "{037EDAB7-E44F-4B3F-972E-1006D9387238}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapExercise", "LeapExercise\LeapExercise.csproj", "{9631C1FF-8930-4E6D-A5F4-DC0F095917AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{037EDAB7-E44F-4B3F-972E-1006D9387238}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{037EDAB7-E44F-4B3F-972E-1006D9387238}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{037EDAB7-E44F-4B3F-972E-1006D9387238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9631C1FF-8930-4E6D-A5F4-DC0F095917AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9631C1FF-8930-4E6D-A5F4-DC0F095917AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9631C1FF-8930-4E6D-A5F4-DC0F095917AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9631C1FF-8930-4E6D-A5F4-DC0F095917AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
