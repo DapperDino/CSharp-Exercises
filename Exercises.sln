@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{B399EEB4-358A-4FAF-9AF8-31D31726C2F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldExercise", "HelloWorld\HelloWorldExercise.csproj", "{B399EEB4-358A-4FAF-9AF8-31D31726C2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFerExercise", "TwoFer\TwoFerExercise.csproj", "{1ED49680-175E-482F-AA69-9DAC440FAF0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTests", "ExerciseTests\ExerciseTests.csproj", "{037EDAB7-E44F-4B3F-972E-1006D9387238}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B399EEB4-358A-4FAF-9AF8-31D31726C2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B399EEB4-358A-4FAF-9AF8-31D31726C2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B399EEB4-358A-4FAF-9AF8-31D31726C2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED49680-175E-482F-AA69-9DAC440FAF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED49680-175E-482F-AA69-9DAC440FAF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED49680-175E-482F-AA69-9DAC440FAF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED49680-175E-482F-AA69-9DAC440FAF0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037EDAB7-E44F-4B3F-972E-1006D9387238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037EDAB7-E44F-4B3F-972E-1006D9387238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037EDAB7-E44F-4B3F-972E-1006D9387238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037EDAB7-E44F-4B3F-972E-1006D9387238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
