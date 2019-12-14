@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTests", "ExerciseTests\ExerciseTests.csproj", "{037EDAB7-E44F-4B3F-972E-1006D9387238}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseTests", "ExerciseTests\ExerciseTests.csproj", "{037EDAB7-E44F-4B3F-972E-1006D9387238}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldExercise", "HelloWorldExercise\HelloWorldExercise.csproj", "{DBA03A5C-B372-45BD-97C7-BAE74091B2BF}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeapExercise", "LeapExercise\LeapExercise.csproj", "{1013E7EF-BBF1-443B-83F4-C10D823363DC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GigasecondExercise", "GigasecondExercise\GigasecondExercise.csproj", "{2F11F282-DD11-42C6-A00D-647395322818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorColorExercise", "ResistorColorExercise\ResistorColorExercise.csproj", "{D2B0F215-538B-48C0-AB41-506FC4FA1413}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2F11F282-DD11-42C6-A00D-647395322818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F11F282-DD11-42C6-A00D-647395322818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F11F282-DD11-42C6-A00D-647395322818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B0F215-538B-48C0-AB41-506FC4FA1413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B0F215-538B-48C0-AB41-506FC4FA1413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B0F215-538B-48C0-AB41-506FC4FA1413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B0F215-538B-48C0-AB41-506FC4FA1413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
