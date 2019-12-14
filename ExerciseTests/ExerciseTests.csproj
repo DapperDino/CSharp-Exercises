@@ -22,6 +22,7 @@
     <ProjectReference Include="..\HelloWorldExercise\HelloWorldExercise.csproj" />
     <ProjectReference Include="..\LeapExercise\LeapExercise.csproj" />
     <ProjectReference Include="..\ResistorColorExercise\ResistorColorExercise.csproj" />
+    <ProjectReference Include="..\SpaceAgeExercise\SpaceAgeExercise.csproj" />
     <ProjectReference Include="..\TwoFerExercise\TwoFerExercise.csproj" />
   </ItemGroup>
 
