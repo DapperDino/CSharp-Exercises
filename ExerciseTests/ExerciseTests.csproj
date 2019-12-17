@@ -25,6 +25,7 @@
     <ProjectReference Include="..\LeapExercise\LeapExercise.csproj" />
     <ProjectReference Include="..\NucleotideCountExercise\NucleotideCountExercise.csproj" />
     <ProjectReference Include="..\ResistorColorExercise\ResistorColorExercise.csproj" />
+    <ProjectReference Include="..\RobotNameExercise\RobotNameExercise.csproj" />
     <ProjectReference Include="..\SpaceAgeExercise\SpaceAgeExercise.csproj" />
     <ProjectReference Include="..\TwoFerExercise\TwoFerExercise.csproj" />
   </ItemGroup>

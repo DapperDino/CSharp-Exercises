@@ -13,15 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeapExercise", "LeapExercis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GigasecondExercise", "GigasecondExercise\GigasecondExercise.csproj", "{2F11F282-DD11-42C6-A00D-647395322818}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorColorExercise", "ResistorColorExercise\ResistorColorExercise.csproj", "{D2B0F215-538B-48C0-AB41-506FC4FA1413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResistorColorExercise", "ResistorColorExercise\ResistorColorExercise.csproj", "{D2B0F215-538B-48C0-AB41-506FC4FA1413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceAgeExercise", "SpaceAgeExercise\SpaceAgeExercise.csproj", "{52EAA0C1-26FF-49DE-9753-E9C28AF2C6B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceAgeExercise", "SpaceAgeExercise\SpaceAgeExercise.csproj", "{52EAA0C1-26FF-49DE-9753-E9C28AF2C6B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighScoresExercise", "HighScoresExercise\HighScoresExercise.csproj", "{5AA74356-E98D-462A-9367-0705302ECD29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighScoresExercise", "HighScoresExercise\HighScoresExercise.csproj", "{5AA74356-E98D-462A-9367-0705302ECD29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HammingExercise", "HammingExercise\HammingExercise.csproj", "{5D65F589-2446-413A-AED5-78727938ECF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HammingExercise", "HammingExercise\HammingExercise.csproj", "{5D65F589-2446-413A-AED5-78727938ECF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NucleotideCountExercise", "NucleotideCountExercise\NucleotideCountExercise.csproj", "{3308FD11-7509-48E4-8842-D972FB591591}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NucleotideCountExercise", "NucleotideCountExercise\NucleotideCountExercise.csproj", "{3308FD11-7509-48E4-8842-D972FB591591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotNameExercise", "RobotNameExercise\RobotNameExercise.csproj", "{3D89DE47-99D0-4E63-BA75-148F7BD0AA7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{3308FD11-7509-48E4-8842-D972FB591591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3308FD11-7509-48E4-8842-D972FB591591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3308FD11-7509-48E4-8842-D972FB591591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D89DE47-99D0-4E63-BA75-148F7BD0AA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D89DE47-99D0-4E63-BA75-148F7BD0AA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D89DE47-99D0-4E63-BA75-148F7BD0AA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D89DE47-99D0-4E63-BA75-148F7BD0AA7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
