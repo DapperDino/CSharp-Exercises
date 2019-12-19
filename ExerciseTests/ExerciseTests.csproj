@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AllergiesExercise\AllergiesExercise.csproj" />
     <ProjectReference Include="..\GigasecondExercise\GigasecondExercise.csproj" />
     <ProjectReference Include="..\HammingExercise\HammingExercise.csproj" />
     <ProjectReference Include="..\HelloWorldExercise\HelloWorldExercise.csproj" />
