@@ -7,18 +7,31 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Tests\**" />
+    <EmbeddedResource Remove="Tests\**" />
+    <None Remove="Tests\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="nunit" Version="3.12.0" />
     <PackageReference Include="NUnit3TestAdapter" Version="3.15.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.2.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Tests\Medium\" />
-    <Folder Include="Tests\Hard\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\AllergiesExercise\AllergiesExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\AllergiesExercise\AllergiesExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\GigasecondExercise\GigasecondExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\GradeSchoolExercise\GradeSchoolExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\HammingExercise\HammingExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\HelloWorldExercise\HelloWorldExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\HighScoresExercise\HighScoresExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\LeapExercise\LeapExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\NucleotideCountExercise\NucleotideCountExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\ResistorColorExercise\ResistorColorExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\RobotNameExercise\RobotNameExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\SpaceAgeExercise\SpaceAgeExercise.csproj" />
+    <ProjectReference Include="..\Exercises\Easy\TwoFerExercise\TwoFerExercise.csproj" />
     <ProjectReference Include="..\GigasecondExercise\GigasecondExercise.csproj" />
     <ProjectReference Include="..\GradeSchoolExercise\GradeSchoolExercise.csproj" />
     <ProjectReference Include="..\HammingExercise\HammingExercise.csproj" />
@@ -28,8 +41,13 @@
     <ProjectReference Include="..\NucleotideCountExercise\NucleotideCountExercise.csproj" />
     <ProjectReference Include="..\ResistorColorExercise\ResistorColorExercise.csproj" />
     <ProjectReference Include="..\RobotNameExercise\RobotNameExercise.csproj" />
+    <ProjectReference Include="..\RotationalCipherExercise\RotationalCipherExercise.csproj" />
     <ProjectReference Include="..\SpaceAgeExercise\SpaceAgeExercise.csproj" />
     <ProjectReference Include="..\TwoFerExercise\TwoFerExercise.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Hard\" />
   </ItemGroup>
 
 </Project>
