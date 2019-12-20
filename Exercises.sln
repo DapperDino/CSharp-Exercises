@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoFerExercise", "Exercises
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotationalCipherExercise", "RotationalCipherExercise\RotationalCipherExercise.csproj", "{6B507F5D-8695-4D03-B68D-73BD0B2EFDD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBufferExercise", "CircularBufferExercise\CircularBufferExercise.csproj", "{0E9B3A15-48E4-45A3-8975-C231B1C205A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6B507F5D-8695-4D03-B68D-73BD0B2EFDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B507F5D-8695-4D03-B68D-73BD0B2EFDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B507F5D-8695-4D03-B68D-73BD0B2EFDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9B3A15-48E4-45A3-8975-C231B1C205A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9B3A15-48E4-45A3-8975-C231B1C205A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9B3A15-48E4-45A3-8975-C231B1C205A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9B3A15-48E4-45A3-8975-C231B1C205A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -117,6 +123,7 @@ Global
 		{E92FE362-B1CA-4462-B261-DDA2BD2B3C7C} = {1622BCC3-E425-46E6-9BB0-7E7CAAC44416}
 		{E99A0A5D-E258-4948-BBE5-666FAACB2A5D} = {1622BCC3-E425-46E6-9BB0-7E7CAAC44416}
 		{6B507F5D-8695-4D03-B68D-73BD0B2EFDD7} = {86E2B076-C054-4C94-8529-60D1FE9596BF}
+		{0E9B3A15-48E4-45A3-8975-C231B1C205A9} = {86E2B076-C054-4C94-8529-60D1FE9596BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6412B274-A982-4A2A-903E-029EBEB90D0F}
