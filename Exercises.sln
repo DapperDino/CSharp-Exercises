@@ -33,6 +33,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hard", "Hard", "{641ABBBB-3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllergiesExercise", "AllergiesExercise\AllergiesExercise.csproj", "{FA605A01-9B1E-4842-9266-EA4075933E3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeSchoolExercise", "GradeSchoolExercise\GradeSchoolExercise.csproj", "{DE76323C-A336-449A-A063-778421DD3BA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{FA605A01-9B1E-4842-9266-EA4075933E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA605A01-9B1E-4842-9266-EA4075933E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA605A01-9B1E-4842-9266-EA4075933E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE76323C-A336-449A-A063-778421DD3BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE76323C-A336-449A-A063-778421DD3BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE76323C-A336-449A-A063-778421DD3BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE76323C-A336-449A-A063-778421DD3BA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -103,6 +109,7 @@ Global
 		{3308FD11-7509-48E4-8842-D972FB591591} = {1622BCC3-E425-46E6-9BB0-7E7CAAC44416}
 		{3D89DE47-99D0-4E63-BA75-148F7BD0AA7B} = {1622BCC3-E425-46E6-9BB0-7E7CAAC44416}
 		{FA605A01-9B1E-4842-9266-EA4075933E3B} = {1622BCC3-E425-46E6-9BB0-7E7CAAC44416}
+		{DE76323C-A336-449A-A063-778421DD3BA2} = {1622BCC3-E425-46E6-9BB0-7E7CAAC44416}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6412B274-A982-4A2A-903E-029EBEB90D0F}
