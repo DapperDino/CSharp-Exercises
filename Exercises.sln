@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircularBufferExercise", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockExercise", "ClockExercise\ClockExercise.csproj", "{95566958-47BF-4AA9-AF8B-BAF3EE9C37E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobExercise", "BobExercise\BobExercise.csproj", "{D3E74DE9-F81A-4E06-BB26-553FAE785873}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{95566958-47BF-4AA9-AF8B-BAF3EE9C37E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95566958-47BF-4AA9-AF8B-BAF3EE9C37E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95566958-47BF-4AA9-AF8B-BAF3EE9C37E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E74DE9-F81A-4E06-BB26-553FAE785873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E74DE9-F81A-4E06-BB26-553FAE785873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E74DE9-F81A-4E06-BB26-553FAE785873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E74DE9-F81A-4E06-BB26-553FAE785873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -131,6 +137,7 @@ Global
 		{6B507F5D-8695-4D03-B68D-73BD0B2EFDD7} = {86E2B076-C054-4C94-8529-60D1FE9596BF}
 		{0E9B3A15-48E4-45A3-8975-C231B1C205A9} = {86E2B076-C054-4C94-8529-60D1FE9596BF}
 		{95566958-47BF-4AA9-AF8B-BAF3EE9C37E8} = {86E2B076-C054-4C94-8529-60D1FE9596BF}
+		{D3E74DE9-F81A-4E06-BB26-553FAE785873} = {86E2B076-C054-4C94-8529-60D1FE9596BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6412B274-A982-4A2A-903E-029EBEB90D0F}

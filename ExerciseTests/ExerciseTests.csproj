@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AllergiesExercise\AllergiesExercise.csproj" />
+    <ProjectReference Include="..\BobExercise\BobExercise.csproj" />
     <ProjectReference Include="..\CircularBufferExercise\CircularBufferExercise.csproj" />
     <ProjectReference Include="..\ClockExercise\ClockExercise.csproj" />
     <ProjectReference Include="..\Exercises\Easy\AllergiesExercise\AllergiesExercise.csproj" />
